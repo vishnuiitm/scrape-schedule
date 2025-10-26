@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # Allow manual triggers
 
 jobs:
-  21f1003950@ds.study.iitm.ac.in:
+  scrape-imdb:
     runs-on: ubuntu-latest
     permissions:
       contents: write
